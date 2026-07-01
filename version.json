@@ -1,0 +1,5 @@
+﻿{
+    "version":  "1.0.1",
+    "notes":  "build: version.py, compilar.bat con GitHub Releases automatico | build: sistema de versiones automatico + GitHub Releases | funcionando acciones modbus | version con botones modbus implementados | new version | dashboard deplegable | fix: iona_multisensor — HTTPS con follow_redirects, timeout 12s, timeout puntual no levanta error | refactor: registros Modbus por widget (no por dispositivo)",
+    "url":  "https://github.com/DITEL-CORP/DitelStudio/releases/download/v1.0.1/DitelStudio_v1.0.1.zip"
+}
