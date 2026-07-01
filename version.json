@@ -1,5 +1,5 @@
 ﻿{
-    "version":  "1.0.8",
-    "notes":  "",
+    "version":  "1.0.9",
+    "notes":  "feat: version en barra inferior + popup de actualizacion disponible | nueva verson | feat: URL fija de descarga para web (DitelStudio_latest.zip) | feat: comprobador de actualizaciones automatico al arrancar | release: v1.0.1 | build: version.py, compilar.bat con GitHub Releases automatico | build: sistema de versiones automatico + GitHub Releases | funcionando acciones modbus",
     "url":  "https://github.com/DITEL-CORP/DitelStudio-updates/releases/latest/download/DitelStudio_latest.zip"
 }
