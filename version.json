@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.28",
-    "notes":  "feat: tooltip con valor y hora al pasar el rat├│n por el gr├ífico hist├│rico | release: v1.0.27 | feat: exponer campo Decimales en el editor de widgets | fix: gr├ífico hist├│rico mostraba hora antigua y zona de color rota (issue #9) | release: v1.0.26 | feat: evitar que Windows suspenda el equipo mientras la app est├í abierta | modificaciones antes de residente | release: v1.0.25",
+    "version":  "1.0.29",
+    "notes":  "release: v1.0.28 | feat: tooltip con valor y hora al pasar el rat├│n por el gr├ífico hist├│rico | release: v1.0.27 | feat: exponer campo Decimales en el editor de widgets | fix: gr├ífico hist├│rico mostraba hora antigua y zona de color rota (issue #9) | release: v1.0.26 | feat: evitar que Windows suspenda el equipo mientras la app est├í abierta | modificaciones antes de residente",
     "url":  "https://github.com/DITEL-CORP/DitelStudio-updates/releases/latest/download/DitelStudio_latest.zip"
 }
