@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.23",
-    "notes":  "new | nuva version | release: v1.0.22 | release: v1.0.21 | release: v1.0.20 | antes de cambios de colores | release: v1.0.19 | proteccion para mas de un a├▒o de instalacion",
+    "version":  "1.0.24",
+    "notes":  "fix: evitar mezcla de campos al editar widgets y permitir ampliar lista | release: v1.0.23 | new | nuva version | release: v1.0.22 | release: v1.0.21 | release: v1.0.20 | antes de cambios de colores",
     "url":  "https://github.com/DITEL-CORP/DitelStudio-updates/releases/latest/download/DitelStudio_latest.zip"
 }
