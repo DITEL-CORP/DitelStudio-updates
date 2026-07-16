@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.24",
-    "notes":  "fix: evitar mezcla de campos al editar widgets y permitir ampliar lista | release: v1.0.23 | new | nuva version | release: v1.0.22 | release: v1.0.21 | release: v1.0.20 | antes de cambios de colores",
+    "version":  "1.0.25",
+    "notes":  "feat: nuevo widget MQTT Gateway para publicar variables en broker MQTT | release: v1.0.24 | fix: evitar mezcla de campos al editar widgets y permitir ampliar lista | release: v1.0.23 | new | nuva version | release: v1.0.22 | release: v1.0.21",
     "url":  "https://github.com/DITEL-CORP/DitelStudio-updates/releases/latest/download/DitelStudio_latest.zip"
 }
