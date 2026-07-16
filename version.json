@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.25",
-    "notes":  "feat: nuevo widget MQTT Gateway para publicar variables en broker MQTT | release: v1.0.24 | fix: evitar mezcla de campos al editar widgets y permitir ampliar lista | release: v1.0.23 | new | nuva version | release: v1.0.22 | release: v1.0.21",
+    "version":  "1.0.26",
+    "notes":  "feat: evitar que Windows suspenda el equipo mientras la app est├í abierta | modificaciones antes de residente | release: v1.0.25 | feat: nuevo widget MQTT Gateway para publicar variables en broker MQTT | release: v1.0.24 | fix: evitar mezcla de campos al editar widgets y permitir ampliar lista | release: v1.0.23 | new",
     "url":  "https://github.com/DITEL-CORP/DitelStudio-updates/releases/latest/download/DitelStudio_latest.zip"
 }
