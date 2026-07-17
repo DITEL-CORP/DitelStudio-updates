@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.30",
-    "notes":  "fix: sustituir TODOS los QSpinBox del proyecto por el modelo sin botones nativos | fix: sustituir los botones nativos de flecha del campo Decimales | fix: solo la esquina del bot├│n de bajar decimales respond├¡a al clic | fix: campo Decimales se estiraba a casi todo el ancho del panel | release: v1.0.29 | release: v1.0.28 | feat: tooltip con valor y hora al pasar el rat├│n por el gr├ífico hist├│rico | release: v1.0.27",
+    "version":  "1.0.31",
+    "notes":  "fix: evitar que dos widgets Modbus compartan el mismo Nombre de registro | release: v1.0.30 | fix: sustituir TODOS los QSpinBox del proyecto por el modelo sin botones nativos | fix: sustituir los botones nativos de flecha del campo Decimales | fix: solo la esquina del bot├│n de bajar decimales respond├¡a al clic | fix: campo Decimales se estiraba a casi todo el ancho del panel | release: v1.0.29 | release: v1.0.28",
     "url":  "https://github.com/DITEL-CORP/DitelStudio-updates/releases/latest/download/DitelStudio_latest.zip"
 }
