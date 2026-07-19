@@ -1,17 +1,17 @@
 {
-    "version":  "1.0.32",
-    "url":  "https://github.com/DITEL-CORP/DitelStudio-updates/releases/download/v1.0.32/DitelStudio-Setup-1.0.32.exe",
-    "sha256":  "253a4403c2704e4332d2257131fa00e53aea65dbb8fd922b675b98d9436ce13e",
+    "version":  "1.0.33",
+    "url":  "https://github.com/DITEL-CORP/DitelStudio-updates/releases/download/v1.0.33/DitelStudio-Setup-1.0.33.exe",
+    "sha256":  "610f23f8eae3a28672b9d437f7c27b9fdc6721e385b5517fad601f3fd294d1c4",
     "mandatory":  false,
     "minimum_version":  "",
     "release_notes":  [
+                          "instalador del software",
+                          "release: v1.0.32",
                           "release: v1.0.31",
                           "fix: evitar que dos widgets Modbus compartan el mismo Nombre de registro",
                           "release: v1.0.30",
                           "fix: sustituir TODOS los QSpinBox del proyecto por el modelo sin botones nativos",
                           "fix: sustituir los botones nativos de flecha del campo Decimales",
-                          "fix: solo la esquina del botón de bajar decimales respondía al clic",
-                          "fix: campo Decimales se estiraba a casi todo el ancho del panel",
-                          "release: v1.0.29"
+                          "fix: solo la esquina del botón de bajar decimales respondía al clic"
                       ]
 }
