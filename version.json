@@ -1,10 +1,10 @@
 {
-    "version":  "1.0.35",
-    "url":  "https://github.com/DITEL-CORP/DitelStudio-updates/releases/download/v1.0.35/DitelStudio-Setup-1.0.35.exe",
-    "sha256":  "5741a80ac143497aecafca19f89d471055e996a8d5e33f46b1f47d4f51f7a747",
+    "version":  "1.0.36",
+    "url":  "https://github.com/DITEL-CORP/DitelStudio-updates/releases/download/v1.0.36/DitelStudio-Setup-1.0.36.exe",
+    "sha256":  "820ce1313a6a2cce89e97cef6fbded48641a6600d9af05394e857401bace7138",
     "mandatory":  false,
     "minimum_version":  "",
     "release_notes":  [
-                          "prueba: verificar que el auto-actualizador corregido funciona de extremo a extremo"
+                          "fix: el actualizador ya no intenta sobrescribir su propio ejecutable en marcha (usa una copia temporal para lanzarse)"
                       ]
 }
