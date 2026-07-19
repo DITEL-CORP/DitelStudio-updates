@@ -1,10 +1,10 @@
 {
-    "version":  "1.0.34",
-    "url":  "https://github.com/DITEL-CORP/DitelStudio-updates/releases/download/v1.0.34/DitelStudio-Setup-1.0.34.exe",
-    "sha256":  "fc67e040933453919a6ea735764eef4754a575bfdef5d03896e23f82982bce40",
+    "version":  "1.0.35",
+    "url":  "https://github.com/DITEL-CORP/DitelStudio-updates/releases/download/v1.0.35/DitelStudio-Setup-1.0.35.exe",
+    "sha256":  "5741a80ac143497aecafca19f89d471055e996a8d5e33f46b1f47d4f51f7a747",
     "mandatory":  false,
     "minimum_version":  "",
     "release_notes":  [
-                          "fix: el actualizador no esperaba correctamente a que Ditel Studio cerrase del todo antes de instalar (bug de ctypes en Windows de 64 bits)"
+                          "prueba: verificar que el auto-actualizador corregido funciona de extremo a extremo"
                       ]
 }
