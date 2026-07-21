@@ -1,17 +1,17 @@
 {
-    "version":  "1.0.44",
-    "url":  "https://github.com/DITEL-CORP/DitelStudio-updates/releases/download/v1.0.44/DitelStudio-Setup-1.0.44.exe",
-    "sha256":  "96155e8f12be891ac6e036110af42e8c94d67ffd544300e9dfeba3edbf365122",
+    "version":  "1.0.45",
+    "url":  "https://github.com/DITEL-CORP/DitelStudio-updates/releases/download/v1.0.45/DitelStudio-Setup-1.0.45.exe",
+    "sha256":  "0ba173d71e5baf44d44e61ac15f01433145b24faacc2665e29d98bef55334c85",
     "mandatory":  false,
     "minimum_version":  "",
     "release_notes":  [
+                          "son un pass",
+                          "new vers",
+                          "new version web",
+                          "version arreglada de pantalla a 90x90",
+                          "release: v1.0.44",
                           "release: v1.0.43",
                           "release: v1.0.42",
-                          "release: v1.0.41",
-                          "release: v1.0.40",
-                          "release: v1.0.39",
-                          "release: v1.0.37",
-                          "release: v1.0.36",
-                          "release: v1.0.35"
+                          "release: v1.0.41"
                       ]
 }
