@@ -1,17 +1,17 @@
 {
-    "version":  "1.0.48",
-    "url":  "https://github.com/DITEL-CORP/DitelStudio-updates/releases/download/v1.0.48/DitelStudio-Setup-1.0.48.exe",
-    "sha256":  "b8898409fd25d38a5009f00735810dcc436d337127d341242f9a54d003192dd7",
+    "version":  "1.0.49",
+    "url":  "https://github.com/DITEL-CORP/DitelStudio-updates/releases/download/v1.0.49/DitelStudio-Setup-1.0.49.exe",
+    "sha256":  "1263b973b6ac41a3f9cf7fe4bbbec13d80d13ab16b1fe9164d32d493d257dee0",
     "mandatory":  false,
     "minimum_version":  "",
     "release_notes":  [
+                          "A├▒adidos los DN",
+                          "release: v1.0.48",
                           "release: v1.0.47",
                           "release: v1.0.46",
                           "Merge branch \u0027feature/dtpm-cartel-device\u0027",
                           "feat: cartel DTPM como dispositivo + parametros de trama FASTEXEC completos",
                           "feat: soporte DTPM (cartel MP Electronics) - mensajeria y fuente por modelo",
-                          "son un pass",
-                          "new vers",
-                          "new version web"
+                          "son un pass"
                       ]
 }
