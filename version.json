@@ -1,17 +1,17 @@
 {
-    "version":  "1.0.50",
-    "url":  "https://github.com/DITEL-CORP/DitelStudio-updates/releases/download/v1.0.50/DitelStudio-Setup-1.0.50.exe",
-    "sha256":  "494799c2e7abefa50f4104242b298e2c5df8f31c711ddf8114a4c7649bbc6501",
+    "version":  "1.0.51",
+    "url":  "https://github.com/DITEL-CORP/DitelStudio-updates/releases/download/v1.0.51/DitelStudio-Setup-1.0.51.exe",
+    "sha256":  "e8669575a3a99968e035703921d84a3026ac9659d2d002b197cec3b83bada817",
     "mandatory":  false,
     "minimum_version":  "",
     "release_notes":  [
+                          "release: v1.0.50",
                           "style: icono y color del boton de envio MQTT iguales al datalogger",
                           "style: parpadeo en el icono de envio MQTT, igual que el datalogger",
                           "fix: motores gateway con origen Modbus dejaban de recibir datos en segundo plano",
                           "feat: motores DTPM/DN independientes del widget de dashboard",
                           "feat: motor de datalogger independiente del widget de dashboard",
                           "feat: motor MQTT gateway independiente del widget de dashboard",
-                          "docs: actualizar CLAUDE.md con arquitectura completa; fix blink DN",
-                          "release: v1.0.49"
+                          "docs: actualizar CLAUDE.md con arquitectura completa; fix blink DN"
                       ]
 }
