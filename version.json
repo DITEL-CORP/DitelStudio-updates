@@ -1,17 +1,17 @@
 {
-    "version":  "1.0.53",
-    "url":  "https://github.com/DITEL-CORP/DitelStudio-updates/releases/download/v1.0.53/DitelStudio-Setup-1.0.53.exe",
-    "sha256":  "fd80c3f826596e8d5c6028a58a809a1c6f86e86b402fe54594ea7bfc35501789",
+    "version":  "1.0.54",
+    "url":  "https://github.com/DITEL-CORP/DitelStudio-updates/releases/download/v1.0.54/DitelStudio-Setup-1.0.54.exe",
+    "sha256":  "61f7ba38ab8bbf4e6024b5a2016386b388e69f1195c7fb597c600da52970f250",
     "mandatory":  false,
     "minimum_version":  "",
     "release_notes":  [
+                          "release: v1.0.53",
                           "antes de implementar dispositivo api rest",
                           "release: v1.0.52",
                           "release: v1.0.51",
                           "release: v1.0.50",
                           "style: icono y color del boton de envio MQTT iguales al datalogger",
                           "style: parpadeo en el icono de envio MQTT, igual que el datalogger",
-                          "fix: motores gateway con origen Modbus dejaban de recibir datos en segundo plano",
-                          "feat: motores DTPM/DN independientes del widget de dashboard"
+                          "fix: motores gateway con origen Modbus dejaban de recibir datos en segundo plano"
                       ]
 }
