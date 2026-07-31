@@ -1,17 +1,17 @@
 {
-    "version":  "1.0.56",
-    "url":  "https://github.com/DITEL-CORP/DitelStudio-updates/releases/download/v1.0.56/DitelStudio-Setup-1.0.56.exe",
-    "sha256":  "b95b2a8250547b026ceb896634b03b4b8289c4733982b52da564c7383d6d9fc2",
+    "version":  "1.0.57",
+    "url":  "https://github.com/DITEL-CORP/DitelStudio-updates/releases/download/v1.0.57/DitelStudio-Setup-1.0.57.exe",
+    "sha256":  "8fd69ad5842fc5c141e19756065f2c1c05ff194176fe3e896024a944cf4397c8",
     "mandatory":  false,
     "minimum_version":  "",
     "release_notes":  [
+                          "release: v1.0.56",
                           "Se a├▒ade el tipo dispositivo IONA Multisonda",
                           "fix(iona_multisensor): a├▒adir autenticaci├│n Bearer y filtrar campos id_*",
                           "release: v1.0.55",
                           "pulseras",
                           "feat(web): a├▒adir diagrama de arquitectura a la p├ígina de inicio",
                           "release: v1.0.54",
-                          "release: v1.0.53",
-                          "antes de implementar dispositivo api rest"
+                          "release: v1.0.53"
                       ]
 }
